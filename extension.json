@@ -1,0 +1,6 @@
+{
+    "name": "SMC_NXP_CAR",
+    "type": "arduino",
+	"extensions": ["BMBot"],
+    "image": "SMC_NXP_CAR.png"
+}
